@@ -17,7 +17,7 @@ const Footer = () => {
           <div className="footer-text">
             <p>
               Made with <FaHeart className="heart-icon" /> by{' '}
-              <span className="footer-name">Nikita Bhansali</span>
+              <span className="footer-name">Nikita Bhansali |ParshWebCraft</span>
             </p>
             <p className="footer-copyright">
               © {currentYear} All rights reserved.
